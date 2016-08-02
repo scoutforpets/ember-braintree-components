@@ -1,1 +1,1 @@
-export { default } from 'ember-braintree/components/braintree-connect-button';
+export { default } from 'ember-braintree-components/components/braintree-connect-button';

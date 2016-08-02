@@ -1,1 +1,1 @@
-export { default } from 'ember-braintree/components/braintree-dropin';
+export { default } from 'ember-braintree-components/components/braintree-dropin';

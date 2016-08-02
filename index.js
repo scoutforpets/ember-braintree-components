@@ -2,10 +2,10 @@
 'use strict';
 
 module.exports = {
-  name: 'ember-braintree',
+  name: 'ember-braintree-components',
 
   isDevelopingAddon: function() {
-    return true;
+    return false;
   },
 
   included: function(app) {

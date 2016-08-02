@@ -1,5 +1,5 @@
 {
-  "name": "ember-braintree",
+  "name": "ember-braintree-components",
   "version": "0.1.0",
   "description": "Braintree's Drop-In Payment UI and Braintree Auth button as Ember components.",
   "directories": {

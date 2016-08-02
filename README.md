@@ -1,4 +1,4 @@
-# ember-braintree
+# ember-braintree-components
 
 This addon includes Braintree's Drop-In Payment UI and Auth Connect button as Ember components.
 
@@ -6,7 +6,7 @@ This addon includes Braintree's Drop-In Payment UI and Auth Connect button as Em
 
 ```bash
 # From within your ember-cli project
-ember install ember-braintree
+ember install ember-braintree-components
 ```
 
 ## Usage
