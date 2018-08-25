@@ -11,10 +11,10 @@ module.exports = {
   afterInstall: function() {
 
     const packages = [
-      { name: 'braintree-web', target: '~2.27.0' },
-      { name: 'braintree-oauth-connect', target: '*' }
+      { name: 'braintree-web', target: '~3.36.0' },
+      { name: 'braintree-auth-connect', target: '*' }
     ]
 
-    return this.addBowerPackagesToProject(packages);
+    return this.addPackagesToProject(packages);
   }
 };
