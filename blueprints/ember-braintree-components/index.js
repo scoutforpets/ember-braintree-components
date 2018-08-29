@@ -12,7 +12,7 @@ module.exports = {
 
     const packages = [
       { name: 'braintree-web', target: '~3.36.0' },
-      { name: 'braintree-auth-connect', target: '*' }
+      { name: 'braintree-auth-connect', target: '~2.0.0' }
     ]
 
     return this.addPackagesToProject(packages);
