@@ -1,1 +1,5 @@
-{{yield}}
+  {{yield (hash
+      submitPaymentMethod=(action 'submitPaymentMethod')
+      clearSelectedPaymentMethod=(action 'clearSelectedPaymentMethod')
+    )
+  }}

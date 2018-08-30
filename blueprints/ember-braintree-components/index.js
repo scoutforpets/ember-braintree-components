@@ -15,7 +15,7 @@ module.exports = {
   afterInstall: function() {
 
     const packages = [
-      { name: 'braintree-web', target: '~3.36.0' },
+      { name: 'braintree-web-drop-in', target: '~1.12.0' },
       { name: 'braintree-auth-connect', target: '~2.0.0' }
     ]
 
