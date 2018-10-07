@@ -5,7 +5,10 @@
   "keywords": [
     "ember-addon"
   ],
-  "repository": "",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/scoutforpets/ember-braintree-components"
+  },
   "license": "MIT",
   "author": "",
   "directories": {
